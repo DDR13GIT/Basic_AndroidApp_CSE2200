@@ -1,0 +1,2 @@
+rootProject.name = "CSE2200_offline1"
+include ':app'
